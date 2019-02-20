@@ -2,7 +2,7 @@
 
 A simple MERN boilerplate. 
 
-Starts you out with: 
+Starts you out with: \n
   -Mongoose.js with a very simple user schema and model
   -Express Server that serves your build bundle
   -A small react app
