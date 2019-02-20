@@ -4,15 +4,15 @@ A simple MERN boilerplate.
 
 Starts you out with:
 <br>
-  -Mongoose.js with a very simple user schema and model
+ &nbsp;&nbsp;&nbsp;&nbsp;-Mongoose.js with a very simple user schema and model
 <br>
-  -Express Server that serves your build bundle
+ &nbsp;&nbsp;&nbsp;&nbsp;-Express Server that serves your build bundle
 <br>
-  -A small react app
+ &nbsp;&nbsp;&nbsp;&nbsp;-A small react app
 <br>
-  -React Router
+ &nbsp;&nbsp;&nbsp;&nbsp;-React Router
 <br>
-  -CSS and SCSS module loading
+ &nbsp;&nbsp;&nbsp;&nbsp;-CSS and SCSS module loading
 <br>
-  -Redux example which comes commented out
+ &nbsp;&nbsp;&nbsp;&nbsp;-Redux example which comes commented out
 <br>
